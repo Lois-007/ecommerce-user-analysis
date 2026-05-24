@@ -36,7 +36,6 @@
 - `clean_data.py` : 数据清洗脚本
 - `sql_analysis.py` : SQL 查询脚本
 - `visualization.py` : 图表生成脚本
-- `cleaned_user_behavior.csv` : 清洗后数据
 - `hourly_pv_chart.png` : 小时PV分布图
 - `daily_pv_uv_trend.png` : 每日趋势图
 - `conversion_pie.png` : 转化率饼图
