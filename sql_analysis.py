@@ -61,7 +61,7 @@ print(conversion)
 # 7. 关闭连接
 conn.close()
 
-# 8. （可选）把结果保存为 CSV
+# 8. 把结果保存为 CSV
 daily.to_csv('daily_pv_uv.csv', index=False)
 hourly.to_csv('hourly_pv.csv', index=False)
 conversion.to_csv('conversion_rate.csv', index=False)

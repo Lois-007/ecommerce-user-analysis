@@ -44,3 +44,8 @@
 ## 如何运行
 1. 安装依赖：`pip install pandas matplotlib`
 2. 依次运行三个 Python 脚本：`clean_data.py → sql_analysis.py → visualization.py`
+
+## 分析结果预览
+![小时级PV分布](hourly_pv_chart.png)
+![用户转化率饼图](conversion_pie.png)
+![每日PV/UV趋势](daily_pv_uv_trend.png)
