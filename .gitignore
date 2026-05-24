@@ -11,4 +11,9 @@ __pycache__/
 # 数据文件（太大或临时）
 UserBehavior.csv
 ecommerce.db
+UserBehavior.csv
+cleaned_user_behavior.csv
+daily_pv_uv.csv
+hourly_pv.csv
+conversion_rate.csv
 
