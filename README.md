@@ -40,8 +40,6 @@
 - `hourly_pv_chart.png` : 小时PV分布图
 - `daily_pv_uv_trend.png` : 每日趋势图
 - `conversion_pie.png` : 转化率饼图
--  `ecommerce.db` : SQLite 数据库文件，存储清洗后的用户行为数据
-- `UserBehavior.csv` : 原始用户行为数据文件 
 
 ## 如何运行
 1. 安装依赖：`pip install pandas matplotlib`
